@@ -1,6 +1,6 @@
-- Focado em .Lua / Python / JS
+- Focado em .Lua / Python / JS / C++
 - Programador Experiente
 - Cascavel/Pr
-- 15y
+- 17y
 
 (>/ Foco no Presente, Pq Passado é Aprendizado )
